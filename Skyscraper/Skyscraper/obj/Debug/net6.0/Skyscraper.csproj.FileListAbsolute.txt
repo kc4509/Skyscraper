@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\bin\Debug\net6.0\Skyscraper.exe
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\bin\Debug\net6.0\Skyscraper.deps.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\bin\Debug\net6.0\Skyscraper.runtimeconfig.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\bin\Debug\net6.0\Skyscraper.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\bin\Debug\net6.0\Skyscraper.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.csproj.AssemblyReference.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\refint\Skyscraper.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\Skyscraper.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Skyscraper\Skyscraper\Skyscraper\obj\Debug\net6.0\ref\Skyscraper.dll
